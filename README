@@ -29,7 +29,7 @@ Este projeto utiliza o cz-git para padronizar mensagens de commit. Siga o passo 
 
 Veja abaixo um exemplo visual do processo:
 
-![Exemplo de uso do cz-git](./assets/commit-exemplo.jpg)
+![Exemplo de uso do cz-git](https://github.com/marcos-roberto-dev/poc-padrao-commit/blob/master/assets/commit-exemplo.jpg)
 
 Cada etapa do prompt corresponde a uma parte da mensagem de commit, garantindo padronização e clareza no histórico do projeto.
 
