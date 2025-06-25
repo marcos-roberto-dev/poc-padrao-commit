@@ -1,0 +1,21 @@
+{
+  "name": "cz-commit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+  "commit": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-git"
+    }
+  },
+  "devDependencies": {
+    "commitizen": "^4.3.1",
+    "cz-git": "^1.11.2"
+  }
+}
